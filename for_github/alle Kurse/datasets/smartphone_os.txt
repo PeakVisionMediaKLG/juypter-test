@@ -1,0 +1,8 @@
+"Operating System" "1Q16 Units" "1Q16 Market Share (%)" "1Q15 Units" "1Q15 Market Share (%)"
+Android 293,771.2 84.1 264,941.9 78.8
+iOS 51,629.5 14.8 60,177.2 17.9
+Windows 2,399.7 0.7 8,270.8 2.5
+Blackberry 659.9 0.2 1,325.4 0.4
+Others 791.1 0.2 1,582.5 0.5
+Source: Gartner (May 2016)
+http://www.gartner.com/newsroom/id/3323017

@@ -1,0 +1,37 @@
+Actionscript 106
+Ada 28
+Assembly 110
+C 1032
+C++ 570
+C# 886
+Clojure 476
+Cobol 11
+CoffeeScript 375
+ColdFusion 50
+ColdFusion 78
+Delphi 45
+Erlang 169
+Forth 41
+Fortran 25
+Haskell 567
+Java 590
+JavaScript 1492
+Lisp 341
+Lua 150
+Objective C 335
+OCaml 88
+Pascal 28
+Perl 335
+PHP 711
+Python 3240
+Rexx 13
+Ruby 1805
+Scala 253
+Scheme 199
+Shell 75
+Smalltalk 128
+SQL 110
+Tcl 34
+Visual Basic 46
+Other 193
+Groovy 80

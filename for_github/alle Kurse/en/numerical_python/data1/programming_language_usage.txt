@@ -1,0 +1,21 @@
+"Mar 2017"	"Language" 	Percentage
+1		Java	16.384%
+2		C	7.742%	
+3		C++	5.184%	
+4		C#	4.409%	
+5		Python	3.919%	
+6		"Visual Basic .NET"	3.174%	
+7		PHP	3.009%	
+8		JavaScript	2.667%	
+9		"Delphi/Object Pascal"	2.544%	
+10		Swift	2.268%	
+11		Perl	2.261%	
+12		Ruby	2.254%	
+13		"Assembly language"	2.232%	
+14		R	2.016%	
+15		"Visual Basic"	2.008%	
+16		Objective-C	1.997%	
+17		Go	1.982%	
+18		MATLAB	1.854%	
+19		PL/SQL	1.672%	
+20		Scratch	1.472%

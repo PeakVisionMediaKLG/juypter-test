@@ -1,0 +1,32 @@
+menu = {"en" : {"file":"File", 
+                "new":"New",
+                "open":"Open", 
+                "save":"Save",
+                "save as":"Save as", 
+                "close":"Close", 
+                "exit":"Exit"}, 
+        "fr" : {"file":"Fichier", 
+                "new" :"Nouveau",
+                "open":"Ouvrir", 
+                "save":"Enregistrer",
+                "save as":"Enregistrer sous", 
+                "close":"Fermer", 
+                "exit":"Quitter"},
+        "de" : {"file":"Datei", 
+                "new":"Neu",
+                "open":"Öffnen", 
+                "save":"Speichern",
+                "save as":"Speichern unter", 
+                "close":"Schließen", 
+                "exit":"Verlassen"},
+        "it" : {"file":"File", 
+                "new":"Nuovo",
+                "open":"Apri", 
+                "save":"Salva",
+                "save as":"Salva come", 
+                "close":"Chiudi", 
+                "exit":"Esci"}  }
+
+
+for language in menu:
+    print("'save as' in " + language + " is " + "'" + menu[language]['save as'] + "'")

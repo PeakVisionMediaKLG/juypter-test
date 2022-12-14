@@ -1,0 +1,186 @@
+Online-Schulungen;25.01.21;29.01.21;beginners
+Online-Schulungen;22.03.21;26.03.21;beginners
+Online-Schulungen;19.04.21;23.04.21;beginners
+Online-Schulungen;07.06.21;11.06.21;beginners
+Online-Schulungen;11.01.21;15.01.21;intensive
+Online-Schulungen;15.03.21;19.03.21;intensive
+Online-Schulungen;12.04.21;16.04.21;intensive
+Online-Schulungen;21.06.21;25.06.21;intensive
+Online-Schulungen;11.01.21;15.01.21;advanced
+Online-Schulungen;15.03.21;19.03.21;advanced
+Online-Schulungen;12.04.21;16.04.21;advanced
+Online-Schulungen;21.06.21;25.06.21;advanced
+Online-Schulungen;22.03.21;26.03.21;engineers
+Online-Schulungen;17.05.21;21.05.21;engineers
+Online-Schulungen;18.01.21;20.01.21;datenanalyse
+Online-Schulungen;15.02.21;19.02.21;OOP
+Online-Schulungen;29.03.21;21.03.21;OOP
+Online-Schulungen;22.02.21;26.02.21;machine
+Online-Schulungen;03.05.21;07.05.21;deep
+Online-Schulungen;21.06.21;25.06.21;textprocessing
+Online-Schulungen;22.03.21;24.03.21;3days
+Hemmenhofen am Bodensee bei Konstanz und Zürich;25.01.21;29.01.21;beginners
+Hemmenhofen am Bodensee bei Konstanz und Zürich;22.03.21;26.03.21;beginners
+Hemmenhofen am Bodensee bei Konstanz und Zürich;19.04.21;23.04.21;beginners
+Hemmenhofen am Bodensee bei Konstanz und Zürich;07.06.21;11.06.21;beginners
+Hemmenhofen am Bodensee bei Konstanz und Zürich;11.01.21;15.01.21;intensive
+Hemmenhofen am Bodensee bei Konstanz und Zürich;15.03.21;19.03.21;intensive
+Hemmenhofen am Bodensee bei Konstanz und Zürich;12.04.21;16.04.21;intensive
+Hemmenhofen am Bodensee bei Konstanz und Zürich;21.06.21;25.06.21;intensive
+Hemmenhofen am Bodensee bei Konstanz und Zürich;11.01.21;15.01.21;advanced
+Hemmenhofen am Bodensee bei Konstanz und Zürich;15.03.21;19.03.21;advanced
+Hemmenhofen am Bodensee bei Konstanz und Zürich;12.04.21;16.04.21;advanced
+Hemmenhofen am Bodensee bei Konstanz und Zürich;21.06.21;25.06.21;advanced
+Hemmenhofen am Bodensee bei Konstanz und Zürich;22.03.21;26.03.21;engineers
+Hemmenhofen am Bodensee bei Konstanz und Zürich;17.05.21;21.05.21;engineers
+Hemmenhofen am Bodensee bei Konstanz und Zürich;18.01.21;20.01.21;datenanalyse
+Hemmenhofen am Bodensee bei Konstanz und Zürich;15.02.21;19.02.21;OOP
+Hemmenhofen am Bodensee bei Konstanz und Zürich;29.03.21;21.03.21;OOP
+Hemmenhofen am Bodensee bei Konstanz und Zürich;22.02.21;26.02.21;machine
+Hemmenhofen am Bodensee bei Konstanz und Zürich;03.05.21;07.05.21;deep
+Hemmenhofen am Bodensee bei Konstanz und Zürich;21.06.21;25.06.21;textprocessing
+Hemmenhofen am Bodensee bei Konstanz und Zürich;22.03.21;24.03.21;3days
+Freiburg, Karlsruhe, Stuttgart;25.01.21;29.01.21;beginners
+Freiburg, Karlsruhe, Stuttgart;22.03.21;26.03.21;beginners
+Freiburg, Karlsruhe, Stuttgart;19.04.21;23.04.21;beginners
+Freiburg, Karlsruhe, Stuttgart;07.06.21;11.06.21;beginners
+Freiburg, Karlsruhe, Stuttgart;11.01.21;15.01.21;intensive
+Freiburg, Karlsruhe, Stuttgart;15.03.21;19.03.21;intensive
+Freiburg, Karlsruhe, Stuttgart;12.04.21;16.04.21;intensive
+Freiburg, Karlsruhe, Stuttgart;21.06.21;25.06.21;intensive
+Freiburg, Karlsruhe, Stuttgart;11.01.21;15.01.21;advanced
+Freiburg, Karlsruhe, Stuttgart;15.03.21;19.03.21;advanced
+Freiburg, Karlsruhe, Stuttgart;12.04.21;16.04.21;advanced
+Freiburg, Karlsruhe, Stuttgart;21.06.21;25.06.21;advanced
+Freiburg, Karlsruhe, Stuttgart;22.03.21;26.03.21;engineers
+Freiburg, Karlsruhe, Stuttgart;17.05.21;21.05.21;engineers
+Freiburg, Karlsruhe, Stuttgart;18.01.21;20.01.21;datenanalyse
+Freiburg, Karlsruhe, Stuttgart;15.02.21;19.02.21;OOP
+Freiburg, Karlsruhe, Stuttgart;29.03.21;21.03.21;OOP
+Freiburg, Karlsruhe, Stuttgart;22.02.21;26.02.21;machine
+Freiburg, Karlsruhe, Stuttgart;03.05.21;07.05.21;deep
+Freiburg, Karlsruhe, Stuttgart;21.06.21;25.06.21;textprocessing
+Freiburg, Karlsruhe, Stuttgart;22.03.21;24.03.21;3days
+Wien, Salzburg oder Linz;25.01.21;29.01.21;beginners
+Wien, Salzburg oder Linz;22.03.21;26.03.21;beginners
+Wien, Salzburg oder Linz;19.04.21;23.04.21;beginners
+Wien, Salzburg oder Linz;07.06.21;11.06.21;beginners
+Wien, Salzburg oder Linz;11.01.21;15.01.21;intensive
+Wien, Salzburg oder Linz;15.03.21;19.03.21;intensive
+Wien, Salzburg oder Linz;12.04.21;16.04.21;intensive
+Wien, Salzburg oder Linz;21.06.21;25.06.21;intensive
+Wien, Salzburg oder Linz;11.01.21;15.01.21;advanced
+Wien, Salzburg oder Linz;15.03.21;19.03.21;advanced
+Wien, Salzburg oder Linz;12.04.21;16.04.21;advanced
+Wien, Salzburg oder Linz;21.06.21;25.06.21;advanced
+Wien, Salzburg oder Linz;22.03.21;26.03.21;engineers
+Wien, Salzburg oder Linz;17.05.21;21.05.21;engineers
+Wien, Salzburg oder Linz;18.01.21;20.01.21;datenanalyse
+Wien, Salzburg oder Linz;15.02.21;19.02.21;OOP
+Wien, Salzburg oder Linz;29.03.21;21.03.21;OOP
+Wien, Salzburg oder Linz;22.02.21;26.02.21;machine
+Wien, Salzburg oder Linz;03.05.21;07.05.21;deep
+Wien, Salzburg oder Linz;21.06.21;25.06.21;textprocessing
+Wien, Salzburg oder Linz;22.03.21;24.03.21;3days
+Hamburg oder Berlin;25.01.21;29.01.21;beginners
+Hamburg oder Berlin;22.03.21;26.03.21;beginners
+Hamburg oder Berlin;19.04.21;23.04.21;beginners
+Hamburg oder Berlin;07.06.21;11.06.21;beginners
+Hamburg oder Berlin;11.01.21;15.01.21;intensive
+Hamburg oder Berlin;15.03.21;19.03.21;intensive
+Hamburg oder Berlin;12.04.21;16.04.21;intensive
+Hamburg oder Berlin;21.06.21;25.06.21;intensive
+Hamburg oder Berlin;11.01.21;15.01.21;advanced
+Hamburg oder Berlin;15.03.21;19.03.21;advanced
+Hamburg oder Berlin;12.04.21;16.04.21;advanced
+Hamburg oder Berlin;21.06.21;25.06.21;advanced
+Hamburg oder Berlin;22.03.21;26.03.21;engineers
+Hamburg oder Berlin;17.05.21;21.05.21;engineers
+Hamburg oder Berlin;18.01.21;20.01.21;datenanalyse
+Hamburg oder Berlin;15.02.21;19.02.21;OOP
+Hamburg oder Berlin;29.03.21;21.03.21;OOP
+Hamburg oder Berlin;22.02.21;26.02.21;machine
+Hamburg oder Berlin;03.05.21;07.05.21;deep
+Hamburg oder Berlin;21.06.21;25.06.21;textprocessing
+Hamburg oder Berlin;22.03.21;24.03.21;3days
+Frankfurt, Köln, Kassel oder Hannover;25.01.21;29.01.21;beginners
+Frankfurt, Köln, Kassel oder Hannover;22.03.21;26.03.21;beginners
+Frankfurt, Köln, Kassel oder Hannover;19.04.21;23.04.21;beginners
+Frankfurt, Köln, Kassel oder Hannover;07.06.21;11.06.21;beginners
+Frankfurt, Köln, Kassel oder Hannover;11.01.21;15.01.21;intensive
+Frankfurt, Köln, Kassel oder Hannover;15.03.21;19.03.21;intensive
+Frankfurt, Köln, Kassel oder Hannover;12.04.21;16.04.21;intensive
+Frankfurt, Köln, Kassel oder Hannover;21.06.21;25.06.21;intensive
+Frankfurt, Köln, Kassel oder Hannover;11.01.21;15.01.21;advanced
+Frankfurt, Köln, Kassel oder Hannover;15.03.21;19.03.21;advanced
+Frankfurt, Köln, Kassel oder Hannover;12.04.21;16.04.21;advanced
+Frankfurt, Köln, Kassel oder Hannover;21.06.21;25.06.21;advanced
+Frankfurt, Köln, Kassel oder Hannover;22.03.21;26.03.21;engineers
+Frankfurt, Köln, Kassel oder Hannover;17.05.21;21.05.21;engineers
+Frankfurt, Köln, Kassel oder Hannover;18.01.21;20.01.21;datenanalyse
+Frankfurt, Köln, Kassel oder Hannover;15.02.21;19.02.21;OOP
+Frankfurt, Köln, Kassel oder Hannover;29.03.21;21.03.21;OOP
+Frankfurt, Köln, Kassel oder Hannover;22.02.21;26.02.21;machine
+Frankfurt, Köln, Kassel oder Hannover;03.05.21;07.05.21;deep
+Frankfurt, Köln, Kassel oder Hannover;21.06.21;25.06.21;textprocessing
+Frankfurt, Köln, Kassel oder Hannover;22.03.21;24.03.21;3days
+Frankfurt, Köln, Kassel oder Hannover;10.08.20;14.08.20;machine
+Frankfurt, Köln, Kassel oder Hannover;31.08.20;04.09.20;machine
+Frankfurt, Köln, Kassel oder Hannover;14.12.20;18.12.20;machine
+Frankfurt, Köln, Kassel oder Hannover;24.08.20;28.08.20;beginners
+Frankfurt, Köln, Kassel oder Hannover;14.09.20;18.09.20;beginners
+Frankfurt, Köln, Kassel oder Hannover;14.12.20;18.12.20;beginners
+Frankfurt, Köln, Kassel oder Hannover;07.09.20;11.09.20;intensive
+Frankfurt, Köln, Kassel oder Hannover;28.09.20;02.10.20;intensive
+Frankfurt, Köln, Kassel oder Hannover;16.11.20;20.11.20;intensive
+Frankfurt, Köln, Kassel oder Hannover;07.09.20;11.09.20;engineers
+Frankfurt, Köln, Kassel oder Hannover;28.09.20;02.10.20;engineers
+Frankfurt, Köln, Kassel oder Hannover;02.11.20;06.11.20;engineers
+Frankfurt, Köln, Kassel oder Hannover;07.09.20;11.09.20;advanced
+Frankfurt, Köln, Kassel oder Hannover;28.09.20;02.10.20;advanced
+Frankfurt, Köln, Kassel oder Hannover;02.11.20;06.11.20;advanced
+Frankfurt, Köln, Kassel oder Hannover;16.11.20;20.11.20;advanced
+Frankfurt, Köln, Kassel oder Hannover;02.11.20;06.11.20;textprocessing
+Frankfurt, Köln, Kassel oder Hannover;16.11.20;20.11.20;textprocessing
+München, Augsburg, Ulm oder Nürnberg;25.01.21;29.01.21;beginners
+München, Augsburg, Ulm oder Nürnberg;22.03.21;26.03.21;beginners
+München, Augsburg, Ulm oder Nürnberg;19.04.21;23.04.21;beginners
+München, Augsburg, Ulm oder Nürnberg;07.06.21;11.06.21;beginners
+München, Augsburg, Ulm oder Nürnberg;11.01.21;15.01.21;intensive
+München, Augsburg, Ulm oder Nürnberg;15.03.21;19.03.21;intensive
+München, Augsburg, Ulm oder Nürnberg;12.04.21;16.04.21;intensive
+München, Augsburg, Ulm oder Nürnberg;21.06.21;25.06.21;intensive
+München, Augsburg, Ulm oder Nürnberg;11.01.21;15.01.21;advanced
+München, Augsburg, Ulm oder Nürnberg;15.03.21;19.03.21;advanced
+München, Augsburg, Ulm oder Nürnberg;12.04.21;16.04.21;advanced
+München, Augsburg, Ulm oder Nürnberg;21.06.21;25.06.21;advanced
+München, Augsburg, Ulm oder Nürnberg;22.03.21;26.03.21;engineers
+München, Augsburg, Ulm oder Nürnberg;17.05.21;21.05.21;engineers
+München, Augsburg, Ulm oder Nürnberg;18.01.21;20.01.21;datenanalyse
+München, Augsburg, Ulm oder Nürnberg;15.02.21;19.02.21;OOP
+München, Augsburg, Ulm oder Nürnberg;29.03.21;21.03.21;OOP
+München, Augsburg, Ulm oder Nürnberg;22.02.21;26.02.21;machine
+München, Augsburg, Ulm oder Nürnberg;03.05.21;07.05.21;deep
+München, Augsburg, Ulm oder Nürnberg;21.06.21;25.06.21;textprocessing
+München, Augsburg, Ulm oder Nürnberg;22.03.21;24.03.21;3days
+Zürich, Schaffhausen, Bern, St. Gallen;25.01.21;29.01.21;beginners
+Zürich, Schaffhausen, Bern, St. Gallen;22.03.21;26.03.21;beginners
+Zürich, Schaffhausen, Bern, St. Gallen;19.04.21;23.04.21;beginners
+Zürich, Schaffhausen, Bern, St. Gallen;07.06.21;11.06.21;beginners
+Zürich, Schaffhausen, Bern, St. Gallen;11.01.21;15.01.21;intensive
+Zürich, Schaffhausen, Bern, St. Gallen;15.03.21;19.03.21;intensive
+Zürich, Schaffhausen, Bern, St. Gallen;12.04.21;16.04.21;intensive
+Zürich, Schaffhausen, Bern, St. Gallen;21.06.21;25.06.21;intensive
+Zürich, Schaffhausen, Bern, St. Gallen;11.01.21;15.01.21;advanced
+Zürich, Schaffhausen, Bern, St. Gallen;15.03.21;19.03.21;advanced
+Zürich, Schaffhausen, Bern, St. Gallen;12.04.21;16.04.21;advanced
+Zürich, Schaffhausen, Bern, St. Gallen;21.06.21;25.06.21;advanced
+Zürich, Schaffhausen, Bern, St. Gallen;22.03.21;26.03.21;engineers
+Zürich, Schaffhausen, Bern, St. Gallen;17.05.21;21.05.21;engineers
+Zürich, Schaffhausen, Bern, St. Gallen;18.01.21;20.01.21;datenanalyse
+Zürich, Schaffhausen, Bern, St. Gallen;15.02.21;19.02.21;OOP
+Zürich, Schaffhausen, Bern, St. Gallen;29.03.21;21.03.21;OOP
+Zürich, Schaffhausen, Bern, St. Gallen;22.02.21;26.02.21;machine
+Zürich, Schaffhausen, Bern, St. Gallen;03.05.21;07.05.21;deep
+Zürich, Schaffhausen, Bern, St. Gallen;21.06.21;25.06.21;textprocessing
+Zürich, Schaffhausen, Bern, St. Gallen;22.03.21;24.03.21;3days

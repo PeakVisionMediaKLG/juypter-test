@@ -1,0 +1,8 @@
+  	Januar 	Februar 	März 	April 	Mai 	Juni 	Juli 	August 	September 	Oktober 	November 	Dezember
+Max. Temperatur °C 	14 	14.2 	15.9 	18.9 	22 	26.2 	27.4 	27.5 	25.6 	22.3 	18.5 	15.3
+ø Temperatur °C 	11.9 	11.9 	11.9 	13.4 	19.1 	23.2 	25 	25.2 	23.2 	20.1 	16.2 	13.2
+Min. Temperatur °C 	9.7 	9.5 	10.8 	12.9 	16.2 	20.2 	22.5 	22.9 	20.7 	17.8 	13.8 	11.1
+Regentage 	10 	9 	7 	4 	3 	0 	0 	0 	2 	4 	8 	11
+Niederschlag (mm) 	71 	43 	40 	16 	11 	1 	7 	1 	11 	38 	59 	75
+Sonnenstunden (h/d) 	4 	3 	6 	7 	9 	11 	11 	11 	8 	7 	5 	4
+Luftfeuchtigkeit (%) 	71 	72 	71 	75 	76 	75 	76 	76 	74 	73 	74 	73

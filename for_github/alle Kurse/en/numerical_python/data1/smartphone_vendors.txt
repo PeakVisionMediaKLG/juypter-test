@@ -1,0 +1,9 @@
+"Company" "1Q16 Units" "1Q16 Market Share (%)" "1Q15 Units" "1Q15 Market Share (%)"
+Samsung 81,186.9 23.2 81,122.8 24.1
+Apple 51,629.5 14.8 60,177.2 17.9
+Huawei 28,861.0 8.3 18,111.1 5.4
+Oppo 16,112.6 4.6 6,585.1 2.0
+Xiaomi 15,048.0 4.3 14,740.2 4.4
+Others 156,413.4 44.8 155,561.4 46.3
+Source: Gartner (May 2016)
+http://www.gartner.com/newsroom/id/3323017

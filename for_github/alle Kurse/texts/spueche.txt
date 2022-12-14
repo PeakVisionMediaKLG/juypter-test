@@ -1,0 +1,29 @@
+http://wiki.gungfu.de/Main/PythonSprache?from=Main.Python
+
+Python is executable pseudocode. Perl is executable line noise.
+
+Python amplifies your brain. 
+
+Python is probably the most lisp-like mainstream language.
+
+Python just feels right to me. It feels clean, it feels poetic, it feels
+beautiful.
+
+Python is for people who want to program, not REAL WORLD programmers.
+
+With Lisp or Forth, a master programmer has unlimited power and
+expressiveness. With Python, even a regular guy can reach for the stars. 
+(Raymond Hettinger, a core Python developer)
+
+
+You don't need types, types are for girls.
+
+like Lisp but my company won't let me use it. What should I do?
+Try to get them to let you use Python.
+
+Basically, Python can be seen as a dialect of Lisp with "traditional" syntax
+(what Lisp people call "infix" or "m-lisp" syntax). [..] Python supports all
+of Lisp's essential features except macros, and you don't miss macros all that
+much because it does have eval, and operator overloading, and regular
+expression parsing, so you can create custom languages that way. 
+

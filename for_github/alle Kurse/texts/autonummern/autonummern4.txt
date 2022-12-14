@@ -1,0 +1,11 @@
+rot K B 1234
+grün S W 4002
+UL HH 775, B AB 17
+M S 3408
+A OO;  B AB 17  345
+Autos: FR AB 99, ER Z 341 und KN R 2309
+and one from Hamburg HH A 7000
+B LL 9456
+UL G 897 
+
+

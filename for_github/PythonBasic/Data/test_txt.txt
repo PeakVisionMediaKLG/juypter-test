@@ -1,0 +1,29 @@
+Das Stichwort "kuenstliche Intelligenz" (KI) ist in den letzten Jahren nahezu ueberall zu finden. Fast jeder hat eine irgendwie geartete Vorstellung, worum es dabei geht, bei manchen gepraegt durch Angst vor dem Unbekannten und der Furcht davor, von Maschinen ersetzt zu werden. Bei anderen wiederum ist die KI mit nahezu goettlichen Verheissungen besetzt - als die Loesung aller Probleme. Wir moechten nun versuchen, eine sinnvolle Definition zu finden und dabei auch die Abgrenzung von kuenstlicher Intelligenz im allgemeinen zum maschinellem Lernen beleuchten.
+
+Kuenstliche Intelligenz ist die Art so mit Maschinen umzugehen, dass sie "intelligent" handeln koennen.
+Solche Definitionen mit offensichtlichen Zirkelschluessen findet man sehr haeufig. Also was heisst hier "intelligent"? Diese Art von Definitionen fuehren uns nicht weiter.
+
+Hier brauchbarere Definition des EU-Parlaments:
+"Kuenstliche Intelligenz ist die Faehigkeit einer Maschine, menschliche Faehigkeiten wie logisches Denken, Lernen, Planen und Kreativitaet zu imitieren."
+Wir erkennen bei dieser Definition, dass der Mensch hier zum Mass aller Dinge gemacht wird. Und in der Tat ist die KI sehr mit dem Vergleich zum menschlichen Handeln belastet und oft wird auch argumentiert, dass man hier mit den Mitteln der Informatik versucht, das menschliche Gehirn nachzubilden und eventuell sogar in seiner Leistungsfaehigkeit zu uebertreffen. Bezeichnenend ist auch das Wort "imitieren" in der Definition, hier erkennt man gut, dass der KI eine "echte Intelligenz" nicht zugetraut wird.
+
+Das Ziel scheint zu sein, den Verstand des Menschen nachzubilden. Als "Abfallprodukt" stellt man sich vor, hierdurch auch Moeglichkeiten aufgedecken, den menschlichen Geist eventuell besser zu verstehen. Manche Werkzeuge der KI, wie zum Beispiel neuronale Netze, werden auch heute noch als vereinfachte Nachbildungen eines Gehirns mit seinen Nervenzellen und deren Verbindungen angesehen, es wird damit also (wenn auch auf sehr vereinfachendem Niveau) versucht, die Hardware des Gehirns nachzubauen.
+
+Die Geschichte der KI ist interessant.
+Ende der 50er Jahre des vorherigen Jahrhunderts kam es vor allem wegen der nun verfuegbaren ersten leistungsfaehigeren Computern verbunden mit der Entwicklung von leichter zu handhabenden symbolischen Programmiersprachen zu einem Interesse an einer "kuenstlichen Intelligenz", welche man versuchte zu entwickeln und in der Praxis zu nutzen.
+
+ueber viele Jahre entwickelte sich dabei als eine Stroemung in der KI das Bestreben, moeglichst viele der Prozesse und Bauprinzipien, die man im menschlichen Hirn nachgewiesen oder zumindest vermutet hatte, mit Computern nachzubilden, sozusagen aus vielen Teilen dann ein komplettes menschliches Hirn nachzubauen.
+
+So versuchten insbesondere die sogenannten "Konnektionisten" die Struktur des Gehirns nachzubauen und erfanden hierzu unter anderem das Perzeptron, was wir in spaeteren Kapiteln noch kennenlernen werden, als massiv vereinfachtes Abbild einer menschlichen Nervenzelle. Derzeit versucht man ernsthaft, das komplette menschliches Hirn mit Computern nachzubauen mit sehr grossen Supercomputern. Dies ist so ungeheuer schwierig, so gross, so teuer, dass es kaum machbar scheint. Doch Wissenschaftler z.B. der Universitaeten in Dresden und Manchester haben nun Wege gefunden, die dieses Ziel erreichbar zu machen scheinen. Ob das "Kunstgehirn" dann auch in irgendeiner Weise so funktioniert wie ein menschliches sei dahingestellt.
+
+Entgegengesetzt war das Ziel der sogenannten "Symbolisten", die ebenfalls eine Maschine so programmieren wollten, dass sie besser und schneller allgemeine Probleme loesen koennte als der Mensch.
+Ihnen kam es aber nicht darauf an, die Struktur des menschlichen Geistes nachzubauen, sondern nur seine Funktionen abzubilden, entsprechende "Intelligenzalgorithmen" zu entwickeln.
+Es stellte sich aber dann schnell heraus, dass es so einfach nicht war, diese hehren Ziele zu erreichen, und die fruehen Bestrebungen stiessen auf nahezu unueberwindbare Hindernisse, verstaerkt natuerlich noch durch die unzureichende Hardware zu dieser Zeit.
+
+
+Bei beiden Ansaetzen kam es so in den 60er und 70er Jahren, nachdem die grossen Versprechungen der Protagonisten zu keinen greifbaren Ergebnissen fuehrten, fast zu einem voelligen Stillstand der Entwicklung, die Finanzierung versiegte, das Ziel erschien nicht erreichbar. Es kam zur sogenannten KI-Eiszeit.
+
+Alle diese Versuche waren von vorneherein durch den staendigen Vergleich zum menschlichen Geist belastet, diesen galt es zu erreichen oder gar zu uebertreffen. Dieses Prinzip bezeichnet man heute als "starke kuenstliche Intelligenz" und diese ist nach wie vor nur in Ansaetzen und Teilgebieten in Sichtweite, wenn auch die Entwicklung in den letzten Jahren wieder fortschreitet. Nach vielen Jahren des Stillstands, in denen nur noch einzelne Enthusiasten an der KI arbeiteten, rueckte so erst in den letzten Jahrzehnten die KI mehr denn je in den Vordergrund, nicht zuletzt durch ein veraendertes Konzept (neben der rasanten Entwicklung von Hardware und auch Programmiertechniken). Das heutige Konzept kann man als "schwache kuenstliche Intelligenz" bezeichnen und ist wesentlich realistischer und erfolgreicher.
+
+Dieser Ansatz verfolgt das Ziel, Maschinen lernfaehig zu machen, insofern, als man sie durch die eigenstaendige Optimierung von Programmparametern in die Lage versetzt, den Zusammenhang zwischen Eingangs- und Ausgangsdaten eines genau definierten Problems zu erfassen, um dann Instanzen des Problems selbststaendig bearbeiten zu koennen. Dies waere der eigentliche Lernvorgang, man beschraenkt dieses Vorgehen auf konkrete Probleme und versteht sich als helfende Instanz fuer den Menschen, nicht als Ersatz.
+Die KI ist daher mehr Werkzeug, der ideologische ueberbau vermindert.

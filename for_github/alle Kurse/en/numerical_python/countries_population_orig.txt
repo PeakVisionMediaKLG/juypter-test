@@ -1,0 +1,239 @@
+1	China	1,355,692,576	July 2014 est.
+2	India	1,236,344,631	July 2014 est.
+3	European Union	511,434,812	July 2014 est.
+4	United States	318,892,103	July 2014 est.
+5	Indonesia	253,609,643	July 2014 est.
+6	Brazil	202,656,788	July 2014 est.
+7	Pakistan	196,174,380	July 2014 est.
+8	Nigeria	177,155,754	July 2014 est.
+9	Bangladesh	166,280,712	July 2014 est.
+10	Russia	142,470,272	July 2014 est.
+11	Japan	127,103,388	July 2014 est.
+12	Mexico	120,286,655	July 2014 est.
+13	Philippines	107,668,231	July 2014 est.
+14	Ethiopia	96,633,458	July 2014 est.
+15	Vietnam	93,421,835	July 2014 est.
+16	Egypt	86,895,099	July 2014 est.
+17	Turkey	81,619,392	July 2014 est.
+18	Germany	80,996,685	July 2014 est.
+19	Iran	80,840,713	July 2014 est.
+20	Congo, Democratic Republic of the	77,433,744	July 2014 est.
+21	Thailand	67,741,401	July 2014 est.
+22	France	66,259,012	July 2014 est.
+23	United Kingdom	63,742,977	July 2014 est.
+24	Italy	61,680,122	July 2014 est.
+25	Burma	55,746,253	July 2014 est.
+26	Tanzania	49,639,138	July 2014 est.
+27	Korea, South	49,039,986	July 2014 est.
+28	South Africa	48,375,645	July 2014 est.
+29	Spain	47,737,941	July 2014 est.
+30	Colombia	46,245,297	July 2014 est.
+31	Kenya	45,010,056	July 2014 est.
+32	Ukraine	44,291,413	July 2014 est.
+33	Argentina	43,024,374	July 2014 est.
+34	Algeria	38,813,722	July 2014 est.
+35	Poland	38,346,279	July 2014 est.
+36	Uganda	35,918,915	July 2014 est.
+37	Sudan	35,482,233	July 2014 est.
+38	Canada	34,834,841	July 2014 est.
+39	Morocco	32,987,206	July 2014 est.
+40	Iraq	32,585,692	July 2014 est.
+41	Afghanistan	31,822,848	July 2014 est.
+42	Nepal	30,986,975	July 2014 est.
+43	Peru	30,147,935	July 2014 est.
+44	Malaysia	30,073,353	July 2014 est.
+45	Uzbekistan	28,929,716	July 2014 est.
+46	Venezuela	28,868,486	July 2014 est.
+47	Saudi Arabia	27,345,986	July 2014 est.
+48	Yemen	26,052,966	July 2014 est.
+49	Ghana	25,758,108	July 2014 est.
+50	Korea, North	24,851,627	July 2014 est.
+51	Mozambique	24,692,144	July 2014 est.
+52	Taiwan	23,359,928	July 2014 est.
+53	Madagascar	23,201,926	July 2014 est.
+54	Cameroon	23,130,708	July 2014 est.
+55	Cote d'Ivoire	22,848,945	July 2014 est.
+56	Australia	22,507,617	July 2014 est.
+57	Sri Lanka	21,866,445	July 2014 est.
+58	Romania	21,729,871	July 2014 est.
+59	Angola	19,088,106	July 2014 est.
+60	Burkina Faso	18,365,123	July 2014 est.
+61	Syria	17,951,639	
+62	Kazakhstan	17,948,816	July 2014 est.
+63	Niger	17,466,172	July 2014 est.
+64	Malawi	17,377,468	July 2014 est.
+65	Chile	17,363,894	July 2014 est.
+66	Netherlands	16,877,351	July 2014 est.
+67	Mali	16,455,903	July 2014 est.
+68	Ecuador	15,654,411	July 2014 est.
+69	Cambodia	15,458,332	July 2014 est.
+70	Guatemala	14,647,083	July 2014 est.
+71	Zambia	14,638,505	July 2014 est.
+72	Zimbabwe	13,771,721	July 2014 est.
+73	Senegal	13,635,927	July 2014 est.
+74	Rwanda	12,337,138	July 2014 est.
+75	South Sudan	11,562,695	July 2014 est.
+76	Guinea	11,474,383	July 2014 est.
+77	Chad	11,412,107	July 2014 est.
+78	Cuba	11,047,251	July 2014 est.
+79	Tunisia	10,937,521	July 2014 est.
+80	Portugal	10,813,834	July 2014 est.
+81	Greece	10,775,557	July 2014 est.
+82	Bolivia	10,631,486	July 2014 est.
+83	Czech Republic	10,627,448	July 2014 est.
+84	Belgium	10,449,361	July 2014 est.
+85	Somalia	10,428,043	July 2014 est.
+86	Burundi	10,395,931	July 2014 est.
+87	Dominican Republic	10,349,741	July 2014 est.
+88	Benin	10,160,556	July 2014 est.
+89	Haiti	9,996,731	July 2014 est.
+90	Hungary	9,919,128	July 2014 est.
+91	Sweden	9,723,809	July 2014 est.
+92	Azerbaijan	9,686,210	July 2014 est.
+93	Belarus	9,608,058	July 2014 est.
+94	Honduras	8,598,561	July 2014 est.
+95	Austria	8,223,062	July 2014 est.
+96	Switzerland	8,061,516	July 2014 est.
+97	Tajikistan	8,051,512	July 2014 est.
+98	Jordan	7,930,491	July 2014 est.
+99	Israel	7,821,850	
+100	Togo	7,351,374	July 2014 est.
+101	Serbia	7,209,764	July 2014 est.
+102	Hong Kong	7,112,688	July 2014 est.
+103	Bulgaria	6,924,716	July 2014 est.
+104	Laos	6,803,699	July 2014 est.
+105	Paraguay	6,703,860	July 2014 est.
+106	Papua New Guinea	6,552,730	July 2014 est.
+107	Eritrea	6,380,803	July 2014 est.
+108	Libya	6,244,174	July 2014 est.
+109	El Salvador	6,125,512	July 2014 est.
+110	Lebanon	5,882,562	July 2014 est.
+111	Nicaragua	5,848,641	July 2014 est.
+112	Sierra Leone	5,743,725	July 2014 est.
+113	United Arab Emirates	5,628,805	July 2014 est.
+114	Kyrgyzstan	5,604,212	July 2014 est.
+115	Denmark	5,569,077	July 2014 est.
+116	Singapore	5,567,301	July 2014 est.
+117	Slovakia	5,443,583	July 2014 est.
+118	Central African Republic	5,277,959	July 2014 est.
+119	Finland	5,268,799	July 2014 est.
+120	Turkmenistan	5,171,943	July 2014 est.
+121	Norway	5,147,792	July 2014 est.
+122	Georgia	4,935,880	July 2014 est.
+123	Ireland	4,832,765	July 2014 est.
+124	Costa Rica	4,755,234	July 2014 est.
+125	Congo, Republic of the	4,662,446	July 2014 est.
+126	Croatia	4,470,534	July 2014 est.
+127	New Zealand	4,401,916	July 2014 est.
+128	Liberia	4,092,310	July 2014 est.
+129	Bosnia and Herzegovina	3,871,643	July 2014 est.
+130	Puerto Rico	3,620,897	July 2014 est.
+131	Panama	3,608,431	July 2014 est.
+132	Moldova	3,583,288	July 2014 est.
+133	Mauritania	3,516,806	July 2014 est.
+134	Lithuania	3,505,738	July 2014 est.
+135	Uruguay	3,332,972	July 2014 est.
+136	Oman	3,219,775	July 2014 est.
+137	Armenia	3,060,631	July 2014 est.
+138	Albania	3,020,209	July 2014 est.
+139	Mongolia	2,953,190	July 2014 est.
+140	Jamaica	2,930,050	July 2014 est.
+141	Kuwait	2,742,711	July 2014 est.
+142	West Bank	2,731,052	
+143	Namibia	2,198,406	July 2014 est.
+144	Latvia	2,165,165	July 2014 est.
+145	Botswana	2,155,784	July 2014 est.
+146	Qatar	2,123,160	July 2014 est.
+147	Macedonia	2,091,719	July 2014 est.
+148	Slovenia	1,988,292	July 2014 est.
+149	Lesotho	1,942,008	July 2014 est.
+150	Gambia, The	1,925,527	July 2014 est.
+151	Kosovo	1,859,203	July 2014 est.
+152	Gaza Strip	1,816,379	July 2014 est.
+153	Guinea-Bissau	1,693,398	July 2014 est.
+154	Gabon	1,672,597	July 2014 est.
+155	Swaziland	1,419,623	July 2014 est.
+156	Mauritius	1,331,155	July 2014 est.
+157	Bahrain	1,314,089	July 2014 est.
+158	Estonia	1,257,921	July 2014 est.
+159	Trinidad and Tobago	1,223,916	July 2014 est.
+160	Timor-Leste	1,201,542	July 2014 est.
+161	Cyprus	1,172,458	July 2014 est.
+162	Fiji	903,207	July 2014 est.
+163	Djibouti	810,179	July 2014 est.
+164	Comoros	766,865	July 2014 est.
+165	Guyana	735,554	July 2014 est.
+166	Bhutan	733,643	July 2014 est.
+167	Equatorial Guinea	722,254	July 2014 est.
+168	Montenegro	650,036	July 2014 est.
+169	Solomon Islands	609,883	July 2014 est.
+170	Macau	587,914	July 2014 est.
+171	Suriname	573,311	July 2014 est.
+172	Western Sahara	554,795	July 2014 est.
+173	Cabo Verde	538,535	July 2014 est.
+174	Luxembourg	520,672	July 2014 est.
+175	Brunei	422,675	July 2014 est.
+176	Malta	412,655	July 2014 est.
+177	Maldives	393,595	July 2014 est.
+178	Belize	340,844	July 2014 est.
+179	Bahamas, The	321,834	July 2014 est.
+180	Iceland	317,351	July 2014 est.
+181	Barbados	289,680	July 2014 est.
+182	French Polynesia	280,026	July 2014 est.
+183	New Caledonia	267,840	July 2014 est.
+184	Vanuatu	266,937	July 2014 est.
+185	Samoa	196,628	July 2014 est.
+186	Sao Tome and Principe	190,428	July 2014 est.
+187	Saint Lucia	163,362	July 2014 est.
+188	Guam	161,001	July 2014 est.
+189	Curacao	146,836	July 2013 est.
+190	Aruba	110,663	July 2014 est.
+191	Grenada	110,152	July 2014 est.
+192	Tonga	106,440	July 2014 est.
+193	Micronesia, Federated States of	105,681	July 2014 est.
+194	Kiribati	104,488	July 2014 est.
+195	Virgin Islands	104,170	July 2014 est.
+196	Saint Vincent and the Grenadines	102,918	July 2014 est.
+197	Jersey	96,513	July 2014 est.
+198	Seychelles	91,650	July 2014 est.
+199	Antigua and Barbuda	91,295	July 2014 est.
+200	Isle of Man	86,866	July 2014 est.
+201	Andorra	85,458	July 2014 est.
+202	Dominica	73,449	July 2014 est.
+203	Marshall Islands	70,983	July 2014 est.
+204	Bermuda	69,839	July 2014 est.
+205	Guernsey	65,849	July 2014 est.
+206	Greenland	57,728	July 2014 est.
+207	Cayman Islands	54,914	July 2014 est.
+208	American Samoa	54,517	July 2014 est.
+209	Saint Kitts and Nevis	51,538	July 2014 est.
+210	Northern Mariana Islands	51,483	July 2014 est.
+211	Faroe Islands	49,947	July 2014 est.
+212	Turks and Caicos Islands	49,070	July 2014 est.
+213	Sint Maarten	39,689	July 2013 est.
+214	Liechtenstein	37,313	July 2014 est.
+215	San Marino	32,742	July 2014 est.
+216	British Virgin Islands	32,680	July 2014 est.
+217	Saint Martin	31,530	July 2014 est.
+218	Monaco	30,508	July 2014 est.
+219	Gibraltar	29,185	July 2014 est.
+220	Palau	21,186	July 2014 est.
+221	Anguilla	16,086	July 2014 est.
+222	Wallis and Futuna	15,561	July 2014 est.
+223	Tuvalu	10,782	July 2014 est.
+224	Cook Islands	10,134	July 2014 est.
+225	Nauru	9,488	July 2014 est.
+226	Saint Helena, Ascension, and Tristan da Cunha	7,776	July 2014 est.
+227	Saint Barthelemy	7,267	July 2014 est.
+228	Saint Pierre and Miquelon	5,716	July 2014 est.
+229	Montserrat	5,215	July 2014 est.
+230	Falkland Islands (Islas Malvinas)	3,361	July 2014 est.
+231	Norfolk Island	2,210	July 2014 est.
+232	Svalbard	1,872	July 2014 est.
+233	Christmas Island	1,530	July 2014 est.
+234	Tokelau	1,337	July 2014 est.
+235	Niue	1,190	July 2014 est.
+236	Holy See (Vatican City)	842	July 2014 est.
+237	Cocos (Keeling) Islands	596	July 2014 est.
+238	Pitcairn Islands	48	July 2014 est.
+
