@@ -1,6 +1,0 @@
-NumpyTutorial_dtype.ipynb
-NumpyTutorial.ipynb
-NumpyTutorial_ArraysGenerieren.ipynb
-NumpyTutorial_changing_dimensions.ipynb
-python_numpy_probability.ipynb
-NumpyTutorial_masking.ipynb

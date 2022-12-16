@@ -1,5 +1,0 @@
-# robots.txt for http://www.python-kurs.eu/
-
-User-agent: *
-Disallow: /buch/beispiele/ # example programs
-
